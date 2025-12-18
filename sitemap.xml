@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    
+    <!-- Главная страница (высший приоритет) -->
+    <url>
+        <loc>https://massshhhkas.github.io/portfolio/</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Страница "Обо мне" -->
+    <url>
+        <loc>https://massshhhkas.github.io/portfolio/about.html</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Страница "Проекты" -->
+    <url>
+        <loc>https://massshhhkas.github.io/portfolio/projects.html</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+    <!-- Страница "Контакты" -->
+    <url>
+        <loc>https://massshhhkas.github.io/portfolio/contacts.html</loc>
+        <lastmod>2024-12-18</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.5</priority>
+    </url>
+    
+</urlset>
